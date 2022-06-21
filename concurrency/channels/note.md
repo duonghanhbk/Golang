@@ -17,9 +17,7 @@
     a <- data // write to channel a
     ```
 
-    **
-    Sends and receives are blocking by default
-    **
+    **Sends and receives are blocking by default**
 
 3. Deadlock
 
