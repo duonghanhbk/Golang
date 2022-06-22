@@ -28,4 +28,4 @@
 
 4. Buffered channels
 
-    It is possible to create a channel with a buffer. Sends to a buffered channel are blocked only when the buffer is full. Similarly receives from a buffered channel are blocked only when the buffer is empty.
+    It is possible to create a channel with a buffer. Sends to a buffered channel are blocked only when the buffer is full. Similarly, receives from a buffered channel are blocked only when the buffer is empty.
